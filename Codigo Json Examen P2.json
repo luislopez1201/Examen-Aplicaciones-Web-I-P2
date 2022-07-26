@@ -1,0 +1,75 @@
+{
+    "productos": [
+      {
+        "Codigo" : "0001",
+        "Descripcion": "Manzanas Rojas",
+        "Unidad": "5",
+        "Cantidad": "30",
+        "Proveedor": "San Rafael"
+     },
+  
+      {
+         "Codigo" : "0002",
+         "Descripcion": "Leche Chocolatada",
+         "Unidad": "2",
+         "Cantidad": "10",
+         "Proveedor": "Toni"
+     },
+     {
+         "Codigo" : "0003",
+         "Descripcion": "Galletas Oreo",
+         "Unidad": "7",
+         "Cantidad": "40",
+         "Proveedor": "La Universal"
+     },
+     {
+         "Codigo" : "0004",
+         "Descripcion": "Yogurt Griego",
+         "Unidad": "1",
+         "Cantidad": "10",
+         "Proveedor": "Zeus"
+     },
+     {
+         "Codigo" : "0005",
+         "Descripcion": "Cereal Chocapic",
+         "Unidad": "3",
+         "Cantidad": "15",
+         "Proveedor": "Nestle"
+     },
+     {
+         "Codigo" : "0006",
+         "Descripcion": "Nest Cafe",
+         "Unidad": "2",
+         "Cantidad": "17",
+         "Proveedor": "La Universal"
+     },
+     {
+         "Codigo" : "0007",
+         "Descripcion": "Aceite Palma de Oro",
+         "Unidad": "1",
+         "Cantidad": "24",
+         "Proveedor": "La Fabril"
+     },
+     {
+         "Codigo" : "0008",
+         "Descripcion": "Pan Artesano Bimbo",
+         "Unidad": "2",
+         "Cantidad": "9",
+         "Proveedor": "Bimbo"
+     },
+     {
+         "Codigo" : "0009",
+         "Descripcion": "Gelatina Royal",
+         "Unidad": "4",
+         "Cantidad": "13",
+         "Proveedor": "FhalconFood"
+     },
+     {
+         "Codigo" : "00010",
+         "Descripcion": "Mortadela de Pollo Juris",
+         "Unidad": "20",
+         "Cantidad": "50",
+         "Proveedor": "Juris Ecuador"
+     }
+    ]
+}
